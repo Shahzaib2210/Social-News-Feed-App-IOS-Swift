@@ -1,0 +1,40 @@
+PODS:
+  - Cache (6.0.0)
+  - Imaginary (5.0.0):
+    - Cache (~> 6.0.0)
+  - IQKeyboardManagerSwift (6.5.9)
+  - Lightbox (2.5.0):
+    - Imaginary (~> 5.0.0)
+  - PryntTrimmerView (4.0.2)
+  - SteviaLayout (4.7.3)
+  - YPImagePicker (5.2.1):
+    - PryntTrimmerView (= 4.0.2)
+    - SteviaLayout (= 4.7.3)
+
+DEPENDENCIES:
+  - IQKeyboardManagerSwift
+  - Lightbox
+  - YPImagePicker
+
+SPEC REPOS:
+  trunk:
+    - Cache
+    - Imaginary
+    - IQKeyboardManagerSwift
+    - Lightbox
+    - PryntTrimmerView
+    - SteviaLayout
+    - YPImagePicker
+
+SPEC CHECKSUMS:
+  Cache: 4ca7e00363fca5455f26534e5607634c820ffc2d
+  Imaginary: cf5e3a7dd6ab1dcbd47ba8ce5edf2307c4e99eb3
+  IQKeyboardManagerSwift: 6e839c575c4aa1078d58a596e41244e77abe918f
+  Lightbox: cc3d5124f024fa8197fd23f913160db1c61a1852
+  PryntTrimmerView: 6a43cc90df5d99addeabd33d4ba09b1365322130
+  SteviaLayout: c2ecdcff57d44e38fd2f65e54ad52aeae28ca0c4
+  YPImagePicker: f36043210c10b0783034eb1947d6e06e31c461e4
+
+PODFILE CHECKSUM: 9572d181d6d3e6295ced71636f523d03887ff074
+
+COCOAPODS: 1.11.2
